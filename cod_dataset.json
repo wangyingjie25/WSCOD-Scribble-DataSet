@@ -1,0 +1,46 @@
+{
+  "NC4K": {
+    "root": "./Dataset/TestDataset/NC4K",
+    "image": {
+      "path": "./Dataset/TestDataset/NC4K/Imgs",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "./Dataset/TestDataset/NC4K/GT",
+      "suffix": ".png"
+    }
+  },
+  "COD10K": {
+    "root": "./Dataset/TestDataset/COD10K",
+    "image": {
+      "path": "./Dataset/TestDataset/COD10K/Imgs",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "./Dataset/TestDataset/COD10K/GT",
+      "suffix": ".png"
+    }
+  },
+    "CHAMELEON": {
+      "root": "./Dataset/TestDataset/CHAMELEON",
+      "image": {
+        "path": "./Dataset/TestDataset/CHAMELEON/Imgs",
+        "suffix": ".jpg"
+      },
+      "mask": {
+        "path": "./Dataset/TestDataset/CHAMELEON/GT",
+        "suffix": ".png"
+      }
+    },
+    "CAMO": {
+      "root": "./Dataset/TestDataset/CAMO",
+      "image": {
+        "path": "./Dataset/TestDataset/CAMO/Imgs",
+        "suffix": ".jpg"
+      },
+      "mask": {
+        "path": "./Dataset/TestDataset/CAMO/GT",
+        "suffix": ".png"
+      }
+    }
+}

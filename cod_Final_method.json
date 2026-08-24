@@ -1,0 +1,20 @@
+{
+    "Ours": {
+        "CAMO": {
+            "path": "./experiments/0.0001_R50_base_decoder_final/save_images/100_epoch/CAMO",
+            "suffix": ".png"
+        },
+        "COD10K": {
+            "path": "./experiments/0.0001_R50_base_decoder_final/save_images/100_epoch/COD10K",
+            "suffix": ".png"
+        },
+        "CHAMELEON": {
+            "path": "./experiments/0.0001_R50_base_decoder_final/save_images/100_epoch/CHAMELEON",
+            "suffix": ".png"
+        },
+        "NC4K": {
+            "path": "./experiments/0.0001_R50_base_decoder_final/save_images/100_epoch/NC4K",
+            "suffix": ".png"
+        }
+    }
+}
